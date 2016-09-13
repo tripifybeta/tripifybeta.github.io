@@ -1,0 +1,12 @@
+$headline-font: 'Source Sans Pro', sans-serif;
+$text-font: 'Lato', sans-serif;
+
+$main-color: #ff715b;
+$secondary-color: #e8e9eb;
+$main-text-color: #4a535d;
+
+@mixin headline {
+	font-family: $headline-font;
+    color: $main-text-color;
+    font-weight: 700;
+}

@@ -1,0 +1,47 @@
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+/* Mobile MQ max-width 640px */
+@media only screen and (max-width: 40em) { 
+h1 {
+	font-size: 3.5rem;
+}
+h2 {
+	font-size: 1.4rem;
+	line-height: 2rem;
+}
+.container {
+	width: 90%;
+	margin: 20px auto;
+}
+.logo {
+	margin-bottom: 20px;
+}
+.animated-header {
+	min-height: 20rem;
+	max-width: 100%;
+}
+}
+/* End of Mobile MQ */
+
+/* Medium Screens max-width 1024px */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+.container {
+	width: 90%;
+	margin: 20px auto;
+} 
+.animated-header {
+	min-height: 15rem;
+	max-width: 100%;
+}	
+}
+/* End of Medium Screens */
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
