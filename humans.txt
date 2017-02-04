@@ -1,15 +1,17 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* TEAM */
 
-# TEAM
+    Supreme Overlord/Founder: Marko Erceg
+    Contact: marko [at] tripify.ch
 
-    <name> -- <role> -- <twitter>
+    XXXX/Founder: Marin Roje
+	Contact: marin [at] tripify.ch
 
-# THANKS
+/* THANKS */
 
-    <name>
+    Anyone who tolerates/tolerated either of us. 
 
-# TECHNOLOGY COLOPHON
+/* WEBSITE */
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Markup: HTML5
+    CSS: SASS to CSS3
+    Libraries: jQuery, Modernizr
